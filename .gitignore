@@ -1,0 +1,14 @@
+.vs/
+.vscode/
+.idea/
+license-plate-finder.Server/.env
+
+# Ignore build results
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs

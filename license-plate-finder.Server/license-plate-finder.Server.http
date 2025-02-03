@@ -1,0 +1,6 @@
+@license_plate_finder.Server_HostAddress = http://localhost:5168
+
+GET {{license_plate_finder.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
